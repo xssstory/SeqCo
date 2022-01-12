@@ -1,6 +1,6 @@
 
 
-This is an implementation of the SeqCo (**Seq**uence Level **Co**ntrastive Learning for Text Summarizationn) model described in [Sequence Level Contrastive Learning for Text Summarization](https://arxiv.org/abs/2109.03481)
+This is an implementation of the SeqCo (**Seq**uence Level **Co**ntrastive Learning for Text Summarizationn) model described in [Sequence Level Contrastive Learning for Text Summarization](https://arxiv.org/abs/2109.03481) (In AAAI 2022; to Appear)
 
 #### Installation
 

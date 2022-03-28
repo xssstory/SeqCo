@@ -142,6 +142,5 @@ bart_model_dir/
 bart_back_sum_model_dir/
 bart_back_sum_nyt_model_dir/
 stanford-corenlp-full-2016-10-31/
-*.sh
 
 

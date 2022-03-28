@@ -25,7 +25,7 @@ python setup.py install
 1. Follow the instruction in https://github.com/abisee/cnn-dailymail to download and process into data-files such that `test.source` and `test.target` has one line for each non-tokenized sample.
 2. `sh seqco_scripts/bpe_preprocess.sh`. 
 In `seqco_scripts/bpe_preprocess.sh`, you need to change the `--inputs` to the path you store `test.source` and `test.target`
-3. `sh binarize.sh`
+3. `sh seqco_scripts/binarize.sh`
 
 #### Train the model on CNN/DM dataset
 

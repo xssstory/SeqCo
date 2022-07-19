@@ -136,7 +136,7 @@ vocab.bpe
 files2rouge/
 
 results/
-data/
+#data/
 *model_dir/
 bart_model_dir/
 bart_back_sum_model_dir/
